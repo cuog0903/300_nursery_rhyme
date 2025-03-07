@@ -12,10 +12,10 @@
             //Bai6.SortNumber();
             // Bai7.SolveFirstDegreeEquations();
             //Bai8.SolveQuadraticEquations();
-            // Bai9.PlayWithTrigonometricCircle();
+            Bai9.PlayWithTrigonometricCircle();
             //Bai10.CheckCanadaSIN();
             //Bai11.PlayRockPaperScissorsGame();
-            Bai12.SolveTwoVariableSystemEquations();
+            //Bai12.SolveTwoVariableSystemEquations();
         }
     }
 }
