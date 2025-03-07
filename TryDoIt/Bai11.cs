@@ -18,6 +18,7 @@ namespace TryDoIt
 
             //Yêu cầu người dùng nhập vào ký tự
             //Dungf Random de lay ky tu cua computer
+            //Them comment de test git thoi nhe
             int human = 0, computer = 0;// Hai bien de cap nhat ty so
             while (true)
             {
